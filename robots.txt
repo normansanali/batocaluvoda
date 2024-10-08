@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://batocaluvoda.pages.dev/sitemap.xml
